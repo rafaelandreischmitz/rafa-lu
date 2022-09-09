@@ -4,6 +4,7 @@ $(function() {
     
         setTimeout(function(){
             $('.lds-ellipsis').addClass('toBottom');
+            $('.notify').removeClass('show');
         }, 450);
     
         setTimeout(function(){
