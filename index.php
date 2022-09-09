@@ -7,7 +7,7 @@
         <script src="./public/js/main.js"></script>
     </head>
     <body>
-        <!-- <div class="lds-ellipsis"><div><span></span><span></span><span></span><span></span></div></div> -->
+        <div class="lds-ellipsis"><div><span></span><span></span><span></span><span></span></div></div>
 
         <main>
             <h1>Quem é o mais <b>lindo</b> do casal?</h1>
@@ -18,6 +18,6 @@
             </div>
         </main>
 
-        <div class="notify"></div>
+        <div class="notify show"></div>
     </body>
 </html>
