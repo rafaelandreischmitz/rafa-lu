@@ -2,7 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="./public/css/style.css">
-        <link href="http://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
+        <link href="https://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
         <script src="./public/js/jquery.min.js"></script>
         <script src="./public/js/main.js"></script>
     </head>
